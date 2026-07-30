@@ -1,0 +1,11 @@
+Atividade 
+Você pode usar o pandas para baixar os dados.
+Calcular os seguintes itens, sem usar as funções do pandas:
+count     
+mean      
+std       
+min       
+25%       
+50%       
+75%      
+max  
