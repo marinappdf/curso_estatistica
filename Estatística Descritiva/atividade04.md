@@ -1,4 +1,4 @@
-# Atividade 03 - Avaliação final
+# Atividade 04 - Avaliação final
 
 - Responda todas as questões abaixo.
 - **A resposta de cada questão deve estar abaixo da questão**, que nem numa prova normal.
@@ -35,7 +35,7 @@ for coluna in colunas:
 - Talvez seja melhor substituir eles por Zero.
 
 Resposta:
-## 2) Calcule os parâmetros estatísticos descritibos do seguinte banco de dados. Não se esqueça de colocar as respostas uma após a outra.
+## 2) Calcule os parâmetros estatísticos descritos do seguinte banco de dados. Não se esqueça de colocar as respostas uma após a outra.
 
 ### Dados disponíveis neste [link](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand). Faça download do arquivo `hotel_bookings.csv` e coloque na mesma pasta do seu código.
 
