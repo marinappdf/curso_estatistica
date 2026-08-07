@@ -117,16 +117,21 @@ pip install -r requirements.txt
 
 ## Fluxo de trabalho 
 
+
+Obs: `.\.venv\Scripts\Activate.ps1` pode ser substituído por escolher o ambiente pela interface do vscode.
+
 ### <b style="color:red"> Primeira vez em cada computador
 
 ```bash
 python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
 ### <b> Após atualização do repositório (`git pull`)
 
 ```bash
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 Este comando só atualizará dependências novas ou alteradas.
